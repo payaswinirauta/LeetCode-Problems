@@ -21,5 +21,5 @@ Iterative pointer manipulation to reverse the linked list in-place.
 - Space: O(1)
 
 ### Status
-✅ Accepted on LeetCode (All test cases passed)
+ Accepted on LeetCode (All test cases passed)
 
