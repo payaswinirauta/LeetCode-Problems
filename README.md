@@ -11,7 +11,7 @@
 
 ## Reverse Linked List – LeetCode 206
 
-🔗 Problem Link: https://leetcode.com/problems/reverse-linked-list/
+🔗 [Problem Link](https://leetcode.com/problems/reverse-linked-list/)
 
 ### Approach
 Iterative pointer manipulation to reverse the linked list in-place.
